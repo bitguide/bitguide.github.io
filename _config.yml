@@ -288,3 +288,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# FRONT MATTER
+header: 
+  image: /assets/images/header.jpeg
+  image_description: "website header"
